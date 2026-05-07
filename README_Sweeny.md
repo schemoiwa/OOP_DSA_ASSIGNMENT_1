@@ -6,11 +6,11 @@ The class acts as a blueprint. The Node class defines what an individual data po
 
 
 2) Difference between a node and a linked list? 
-A node is a single "building block" containing data and a reference to the next item. A linked list is the entire collection or "chain" of these nodes, starting from the very first one (the head).  
+A node is a single building block containing data and a reference to the next item. A linked list is the entire collection or chain of these nodes, starting from the very first one (the head).  
 
 
 3) Why do we use None in next? 
-None serves as a "stop sign." It indicates the end of the list, telling the program that there are no more nodes to follow.  
+None serves as a stop sign. It indicates the end of the list, telling the program that there are no more nodes to follow.  
 
 
 4) How is a linked list different from a Python list? 
