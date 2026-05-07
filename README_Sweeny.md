@@ -1,7 +1,7 @@
 # OOP_DSA_ASSIGNMENT_1
 Part 4: Concept Questions
 
-1) role of a class in a linked list? 
+1) Role of a class in a linked list? 
 The class acts as a blueprint. The Node class defines what an individual data point looks like (its value and its pointer), while the LinkedList class acts as the manager that organizes these nodes into a sequence.  
 
 
